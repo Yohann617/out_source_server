@@ -1,0 +1,6 @@
+##ignore this file##
+
+node_modules/
+log/
+.vscode/
+backupCode/
