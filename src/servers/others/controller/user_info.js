@@ -1,5 +1,5 @@
 
-var dataSource = require('../../../dataSource/dataSourceInterface');
+var dataSource = require('../../../../dataSource/dataSourceInterface');
 
 var userInfo = {
   "getUserName":async function(req, res, next){
